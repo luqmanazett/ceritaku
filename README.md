@@ -31,7 +31,7 @@ Project ini dibuat untuk menunjukkan kemampuan saya dalam membangun aplikasi web
 ## Link
 
 - GitHub: https://github.com/luqmanazett/ceritaku
-- Demo: (isi link deployment jika sudah tersedia)
+- 
 
 ## Cara Menjalankan
 
