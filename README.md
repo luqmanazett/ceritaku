@@ -1,50 +1,32 @@
 # CeritaKu
 
-> Build Your Memories Into a Premium Printed Book
-
 Aplikasi web untuk membuat dan memesan Memory Book custom secara online.
 
 ## Tentang Project
 
-CeritaKu adalah platform yang membantu pengguna mengubah momen berharga menjadi buku kenangan fisik yang elegan. Pengguna dapat memilih template, mengunggah foto, mengatur halaman, melihat preview 3D, dan langsung memesan melalui WhatsApp.
+CeritaKu adalah platform yang membantu pengguna membuat buku kenangan digital menjadi produk fisik. Pengguna dapat memilih template, mengunggah foto, mengatur layout halaman, melihat preview buku, dan langsung memesan melalui WhatsApp.
 
-Project ini dibuat untuk menunjukkan kemampuan saya dalam membangun aplikasi web full-stack dengan fokus pada UX, workflow bisnis, dan sistem administrasi yang terstruktur.
-
-## Why This Project Matters
-
-- Menyelesaikan kebutuhan user yang ingin membuat buku kenangan tanpa ribet
-- Menggabungkan proses desain, penjualan, dan manajemen order dalam satu sistem
-- Menunjukkan kemampuan membangun aplikasi yang bukan hanya tampilan, tapi juga punya fitur bisnis nyata
+Project ini dibuat untuk menunjukkan kemampuan saya dalam membangun aplikasi web full-stack dengan Laravel, serta menghadirkan pengalaman pengguna yang intuitif dan proses bisnis yang terstruktur.
 
 ## Fitur Utama
 
 - Landing page modern dan responsif
 - Editor custom untuk mengatur halaman buku
-- Upload foto dan auto-fill layout
+- Upload foto dan pengisian layout otomatis
 - Preview buku dengan tampilan flipbook 3D
-- Form pemesanan customer yang lengkap
+- Form pemesanan customer
 - Tracking status pesanan
-- Dashboard admin untuk mengelola order, template, dan kategori
-- Download hasil desain dan foto untuk kebutuhan produksi
-
-## Preview
-
-![Landing Page](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80)
-
-![Editor](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80)
-
-![Admin Dashboard](https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1200&q=80)
+- Dashboard admin untuk mengelola pesanan, template, dan kategori
 
 ## Teknologi
 
 - Laravel 12
 - PHP 8.2+
-- Blade Template
+- Blade
 - Tailwind CSS
 - Alpine.js
 - Vite
 - SQLite/MySQL
-- Fabric.js
 
 ## Link
 
