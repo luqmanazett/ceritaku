@@ -31,7 +31,7 @@ Project ini dibuat untuk menunjukkan kemampuan saya dalam membangun aplikasi web
 ## Link
 
 - GitHub: https://github.com/luqmanazett/ceritaku
-- 
+- E-Berlian PLN: https://github.com/luqmanazett/eberlian-pln
 
 ## Cara Menjalankan
 
